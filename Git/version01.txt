@@ -8,3 +8,5 @@ This feature will gadbad everything from now.
 
 
 This is the bug fix in development branch
+
+Line2>> After bug fixing, this is the new feature with minor alteration
